@@ -24,7 +24,7 @@ The goal of this task was to **build a stopwatch web application** using core we
 ---
 
 ## 📸 Preview  
-![Stopwatch Preview](  ![alt text](image-1-1.PNG) ![alt text](image-2-1.PNG) ![alt text](image-3-1.PNG))
+![Stopwatch Preview]  ![alt text](image-1-1.PNG) ![alt text](image-2-1.PNG) ![alt text](image-3-1.PNG)
   
 
 ---
@@ -39,3 +39,4 @@ The goal of this task was to **build a stopwatch web application** using core we
 1. Clone this repository:  
    ```bash
    git clone https://github.com/KeabetsweMP/prodigy_wd_02.git
+
